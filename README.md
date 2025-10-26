@@ -23,3 +23,7 @@ Log into your OpenWrt router's web UI.
 System → Startup
 
 3. Click next to rc.local
+
+
+# Visit my blog
+https://www.ilblogdicristiangallo.com
